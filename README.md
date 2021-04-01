@@ -3,7 +3,7 @@
 - create stuff
 - break stuff
 - fix stuff
-- realise its impossible to fix and instead throwing it at a wall is eaisier
+- realise its impossible to fix and instead throw it at a wall
 ## what i like
 - coding random junk thats no use whatsoever and does nothing except error
 - coding more random erroring junk
